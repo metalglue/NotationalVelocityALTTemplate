@@ -5,6 +5,13 @@ a {
 }
 a:hover { color:#3593d9; }
 body, table {
-    font-size: 11pt;
+    font-size: 10.5pt;
     font-family: sans-serif;
+}
+ul {
+    padding-left: 2em;
+}
+em {
+    font-style: normal;
+    text-decoration: underline;
 }
